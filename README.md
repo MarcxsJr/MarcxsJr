@@ -1,5 +1,5 @@
 # Olá! Bem-vindo ao meu GitHub 👋
-!(./profile.jpeg)
+![](./profile.jpeg)
 ### 🛠️ Tecnologias e Ferramentas:
 
 - **Linguagens:**  
