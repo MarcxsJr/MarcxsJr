@@ -1,5 +1,5 @@
 # Olá! Bem-vindo ao meu GitHub 👋
-git
+./profile.jpeg
 ### 🛠️ Tecnologias e Ferramentas:
 
 - **Linguagens:**  
